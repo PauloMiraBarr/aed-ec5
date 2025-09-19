@@ -1,4 +1,6 @@
-/* Alumnos
+/* Guia
+Compilador: C++ 20
+Alumnos
 - Paulo Isael Miranda Barrientos
 - Jose Daniel Huaman Rosales
 - Elmer Jose Manuel Villegas Suarez

@@ -1,3 +1,8 @@
+//C++ 20
+//Elmer Villegas Suarez
+//Jose Daniel Huaman Rosales
+//Paulo Isael Miranda Barrientos
+
 #include <bits/stdc++.h>
 using namespace std;
 
